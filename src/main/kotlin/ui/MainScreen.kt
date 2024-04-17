@@ -7,7 +7,6 @@ import data.RepositoryImplementation
 import domain.Repository
 import domain.model.Article
 import kotlinx.coroutines.launch
-import java.util.Properties
 
 @Preview
 @Composable
